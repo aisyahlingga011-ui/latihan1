@@ -1,0 +1,17 @@
+list_1 = [10, 70, 20]
+
+list_2 = [
+    "ab"
+    "cd"
+    "hi"
+    "ca"
+]
+
+list_3 = [3.14, "hello python", True, False]
+
+list_4 = []
+
+print(list_1)
+print(list_2)
+print(list_3)
+print(list_4)
