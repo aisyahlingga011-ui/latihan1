@@ -1,1 +1,0 @@
-print("message: %s %s %s" )
